@@ -1,4 +1,4 @@
-package com.mphasis.basics;
+package project.practice;
 import java.util.Scanner;
 class Arithmetic {
   public static void main(String[] args) {
